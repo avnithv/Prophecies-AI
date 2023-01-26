@@ -1,3 +1,6 @@
+# 550 lines of messy code
+# also tkinter sucks
+
 from tkinter import *
 from tkinter import messagebox
 from tkinter.font import Font
